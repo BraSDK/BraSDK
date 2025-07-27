@@ -26,7 +26,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Development Software](https://www.senati.edu.pe/) at [SENATI](http://suez.edu.eg/ar/).
+- :school: I am `Junior` at [Faculty of Development Software](https://www.senati.edu.pe/) at [SENATI](http://suez.edu.eg/ar/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
