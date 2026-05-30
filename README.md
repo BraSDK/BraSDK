@@ -58,7 +58,7 @@
   <br>
   <div align="center">
     <a target="_blank" href="https://github.com/anuraghazra/github-readme-streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=[TU_USUARIO_DE_GITHUB]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=BraSDK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </a>
   </div>
 </details>
@@ -68,10 +68,10 @@
   <br>
   <div align="center">
     <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-mirror.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+      <img src="https://github-readme-stats-mirror.vercel.app/api?username=BraSDK&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
     </a>
     <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+      <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=BraSDK&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
     </a>
   </div>
 </details>
@@ -80,6 +80,6 @@
   <summary><b>🐍 La Serpiente comiendo mis Contribuciones</b></summary>
   <br>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/[TU_USUARIO_DE_GITHUB]/[TU_USUARIO_DE_GITHUB]/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/BraSDK/BraSDK/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </div>
 </details>
