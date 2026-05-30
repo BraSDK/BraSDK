@@ -53,7 +53,33 @@
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img alt="Mis estadísticas de Github" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="180px"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=[TU_USUARIO_DE_GITHUB]&langs_count=6&theme=tokyonight" alt="Lenguajes más usados" height="180px"/>
-</p>
+<details>
+  <summary><b>🔥 Racha de Commits (Streak Stats)</b></summary>
+  <br>
+  <div align="center">
+    <a target="_blank" href="https://github.com/anuraghazra/github-readme-streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=[TU_USUARIO_DE_GITHUB]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><b>💻 Estadísticas del Perfil (Profile Stats)</b></summary>
+  <br>
+  <div align="center">
+    <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats-mirror.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+    </a>
+    <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><b>🐍 La Serpiente comiendo mis Contribuciones</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/[TU_USUARIO_DE_GITHUB]/[TU_USUARIO_DE_GITHUB]/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </div>
+</details>
